@@ -1,2 +1,2 @@
 # MTXTabBarController
-Highly customized tabbar
+Highly customized tabbar by MT.X
